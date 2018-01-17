@@ -1,2 +1,2 @@
 # Upper-moniter-for-mpu9250
-基于串行通信接口的针对MPU系列内置融合引擎DMP获取欧拉角的Labview上位机设计
+通过串行通信接口的针对MPU系列内置融合引擎DMP获取欧拉角的Labview上位机设计
